@@ -24,6 +24,3 @@
 2. spider: Sigma=3,TL=120, TH=150;
 左圖未使用threshold，右圖有使用threshold。可以決定有影子還是沒影子
 ![](https://i.imgur.com/rEQHevg.png)![](https://i.imgur.com/ztRCQWe.png)
-
-
-## 其他報告可以看pdf檔
