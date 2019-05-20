@@ -26,4 +26,4 @@
 ![](https://i.imgur.com/rEQHevg.png)![](https://i.imgur.com/ztRCQWe.png)
 
 
-## 其他報告可以看檔
+## 其他報告可以看pdf檔
